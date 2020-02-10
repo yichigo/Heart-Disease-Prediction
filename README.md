@@ -20,7 +20,7 @@ the output plots will be saved to ./plot/
 
 To run the codes, open Jupyter Notebook and go to the folder ./src/
 
-There are 5 different models:
+#### There are 5 different models:
 	Decision Tree (DT),
 	Neural Networks (NN),
 	AdaBoost(AB),
